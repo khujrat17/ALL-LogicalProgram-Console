@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hmvn+yy8Lb7TSeLbXKwUKZjIl0tHP8BU56B8cf3G5GDTvrl5A59BCCgJp0w7OBQ2c3Sck7BYhk2f81q4rR1c3A==",
+  "success": true,
+  "projectFilePath": "C:\\.netjgp\\C# Sharp\\logicalprogram\\logicalprogram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.speech\\7.0.0\\system.speech.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
